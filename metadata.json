@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A beautiful, premium material design calculator with responsive tactile feedback, local history, and responsive themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

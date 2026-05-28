@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="desc_clear">Clear expression</string>
+    <string name="desc_backspace">Delete last character</string>
+    <string name="desc_percent">Percent</string>
+    <string name="desc_divide">Divide</string>
+    <string name="desc_multiply">Multiply</string>
+    <string name="desc_subtract">Subtract</string>
+    <string name="desc_add">Add</string>
+    <string name="desc_equal">Equal</string>
+    <string name="desc_sign">Toggle sign</string>
+    <string name="desc_history">History panel</string>
+    <string name="desc_history_clear">Clear history</string>
+</resources>
